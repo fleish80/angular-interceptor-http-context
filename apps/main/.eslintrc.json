@@ -17,7 +17,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "angular-interceptor-http-context",
+            "prefix": "df",
             "style": "kebab-case"
           }
         ]
